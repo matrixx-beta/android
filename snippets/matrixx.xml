@@ -52,6 +52,7 @@
   <project path="packages/apps/Backgrounds" name="android_packages_apps_Backgrounds" remote="matrixx" />
   <project path="packages/apps/crDroidSettings" name="android_packages_apps_MatrixxSettings" remote="matrixx"  />
   <project path="packages/apps/GameSpace" name="android_packages_apps_GameSpace" remote="matrixx" />
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="matrixx" />
   <project path="packages/apps/LMOFreeform" name="android_packages_apps_LMOFreeform" remote="matrixx" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="matrixx" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="matrixx"  />
